@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/manilkumarveena/trail/_apis/build/status/meeav.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/manilkumarveena/trail/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
